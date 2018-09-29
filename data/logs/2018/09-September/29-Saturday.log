@@ -1,0 +1,246 @@
+[2018-09-29 14:17:22.306] 
+[2018-09-29 14:17:22.312] 
+[2018-09-29 14:17:22.312] Starting up. (ID: bWA-cjXK) 09:17.22
+[2018-09-29 14:17:22.312] ---------------------
+[2018-09-29 14:17:22.320] [02:00:00] bWA-cjXK MISC: Failed to connect to database in load_admins(). Reverting to legacy system.
+[2018-09-29 14:17:22.330] [02:00:00] bWA-cjXK MISC: Database connection failed. Reverting to the legacy ban system.
+[2018-09-29 14:17:22.425] [02:00:00] bWA-cjXK DEBUG: Rebuilding Master Controller
+[2018-09-29 14:17:24.793] [02:00:00] bWA-cjXK DEBUG: SSminimap: 6 maps.
+[2018-09-29 14:20:20.321] 
+[2018-09-29 14:20:20.322] 
+[2018-09-29 14:20:20.322] Starting up. (ID: bWA-ckqj) 09:20.20
+[2018-09-29 14:20:20.322] ---------------------
+[2018-09-29 14:20:20.363] [12:00:00] bWA-ckqj ADMIN: Loading jobban_rank
+[2018-09-29 14:20:20.363] [12:00:00] bWA-ckqj ADMIN: jobban_keylist was empty
+[2018-09-29 14:20:20.365] [12:00:00] bWA-ckqj ADMIN: Loading Banlist
+[2018-09-29 14:20:20.455] [12:00:00] bWA-ckqj DEBUG: Rebuilding Master Controller
+[2018-09-29 14:20:22.609] [12:00:00] bWA-ckqj DEBUG: SSminimap: 6 maps.
+[2018-09-29 14:20:33.092] [12:00:00] bWA-ckqj ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 14:20:55.601] [12:00:00] bWA-ckqj ADMIN: Lestatanderson has started the game.
+[2018-09-29 14:20:56.086] [12:00:00] bWA-ckqj DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 14:20:56.086] [12:00:00] bWA-ckqj DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 14:20:56.168] [12:00:00] bWA-ckqj ACCESS: Logout: *no key*/(Lestatanderson)
+[2018-09-29 14:20:56.168] [12:00:00] bWA-ckqj ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 14:20:56.379] [12:00:00] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Kellen Curry.
+[2018-09-29 14:20:56.379] [12:00:00] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Kellen Curry.
+[2018-09-29 14:20:56.379] [12:00:00] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Kellen Curry.
+[2018-09-29 14:20:56.379] [12:00:00] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Kellen Curry.
+[2018-09-29 14:20:57.577] [12:00:00] bWA-ckqj DEBUG: Next event of severity Mundane in 15.686 minutes.
+[2018-09-29 14:20:57.587] [12:00:00] bWA-ckqj DEBUG: Next event of severity Moderate in 40.872 minutes.
+[2018-09-29 14:20:57.587] [12:00:00] bWA-ckqj DEBUG: Next event of severity Major in 97.1833 minutes.
+[2018-09-29 14:21:07.165] [12:00:09] bWA-ckqj SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 14:21:10.703] [12:00:13] bWA-ckqj EMOTE: �Meatbag/ : <B>�Meatbag</B> turns and flies towards the semki pack
+[2018-09-29 14:21:15.858] [12:00:18] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:15.858] [12:00:18] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:15.858] [12:00:18] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:15.859] [12:00:18] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:17.979] [12:00:20] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:17.979] [12:00:20] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:17.979] [12:00:20] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:17.979] [12:00:20] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:20.286] [12:00:22] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:20.286] [12:00:22] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:20.287] [12:00:22] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:20.287] [12:00:22] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:22.798] [12:00:25] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:22.798] [12:00:25] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:22.798] [12:00:25] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:22.798] [12:00:25] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:36.325] [12:00:38] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:36.325] [12:00:38] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:36.325] [12:00:38] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:36.325] [12:00:38] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:38.528] [12:00:40] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:38.528] [12:00:40] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:38.528] [12:00:40] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:38.528] [12:00:40] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:41.251] [12:00:43] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:41.251] [12:00:43] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:41.251] [12:00:43] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:41.251] [12:00:43] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:43.249] [12:00:45] bWA-ckqj DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:43.250] [12:00:45] bWA-ckqj DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:43.250] [12:00:45] bWA-ckqj DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:21:43.250] [12:00:45] bWA-ckqj DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 14:22:49.956] [12:01:51] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) jumped to Mine (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=166;Y=200;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:22:55.872] [12:01:57] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) jumped to the �Mining Factory (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=111;Y=209;Z=2'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:28:43.383] [12:07:45] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> shakes their head.
+[2018-09-29 14:29:17.395] [12:08:19] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> shakes their head.
+[2018-09-29 14:30:31.385] [12:09:33] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> shakes their head.
+[2018-09-29 14:36:41.319] [12:15:43] bWA-ckqj DEBUG: Next event of severity Mundane in 15.916 minutes.
+[2018-09-29 14:36:41.319] [12:15:43] bWA-ckqj DEBUG: Starting event 'Shipping Error' of severity Mundane.
+[2018-09-29 14:36:43.403] [12:15:45] bWA-ckqj DEBUG: Event 'Shipping Error' has completed at 12:16.
+[2018-09-29 14:38:51.055] [12:17:52] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) jumped to the �Telecoms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=162;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:38:55.304] [12:17:56] bWA-ckqj ACCESS: Logout: Lestatanderson/(Lana Werry)
+[2018-09-29 14:39:04.303] [12:17:57] bWA-ckqj ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 14:39:18.169] [12:18:10] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) jumped to 144,160,5 in the �Telecoms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=162;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:39:31.156] [12:18:23] bWA-ckqj SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 14:40:10.228] [12:19:02] bWA-ckqj SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 14:40:20.116] [12:19:12] bWA-ckqj SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 14:40:26.314] [12:19:19] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> mews.
+[2018-09-29 14:40:29.730] [12:19:22] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Lestatanderson</a>/(Lana Werry)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=151;Y=156;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:41:12.306] [12:20:05] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> meows.
+[2018-09-29 14:42:06.357] [12:20:59] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> shivers.
+[2018-09-29 14:45:29.407] [12:24:21] bWA-ckqj SAY: Lion/ : HSSSSS
+[2018-09-29 14:46:02.446] [12:24:53] bWA-ckqj ADMIN: Lestatanderson/(Lana Werry) healed / revived <a href='?priv_msg=[0x5000000];ticket=[0x0]'>Lestatanderson</a>/(Lana Werry)! (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=150;Y=159;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000035]'>MOB</a>)
+[2018-09-29 14:52:23.602] [12:31:13] bWA-ckqj EMOTE: Lion/ : <B>Lion</B> meows.
+[2018-09-29 14:52:49.045] [12:31:38] bWA-ckqj DEBUG: Next event of severity Mundane in 13.964 minutes.
+[2018-09-29 14:52:49.045] [12:31:38] bWA-ckqj DEBUG: Starting event 'Economic News' of severity Mundane.
+[2018-09-29 14:58:07.788] [12:36:55] bWA-ckqj DEBUG: Event 'Economic News' has completed at 12:37.
+[2018-09-29 15:02:08.820] [12:40:54] bWA-ckqj DEBUG: Next event of severity Moderate in 47.282 minutes.
+[2018-09-29 15:02:08.829] [12:40:54] bWA-ckqj DEBUG: Starting event 'Gravity Failure' of severity Moderate.
+[2018-09-29 15:02:26.143] [12:41:09] bWA-ckqj ACCESS: Logout: Lestatanderson/(Lana Werry)
+[2018-09-29 15:06:55.700] 
+[2018-09-29 15:06:55.778] 
+[2018-09-29 15:06:55.778] Starting up. (ID: bWA-crHe) 10:06.55
+[2018-09-29 15:06:55.778] ---------------------
+[2018-09-29 15:06:56.018] [07:00:00] bWA-crHe ADMIN: Loading jobban_rank
+[2018-09-29 15:06:56.018] [07:00:00] bWA-crHe ADMIN: jobban_keylist was empty
+[2018-09-29 15:06:56.020] [07:00:00] bWA-crHe ADMIN: Loading Banlist
+[2018-09-29 15:06:56.121] [07:00:00] bWA-crHe DEBUG: Rebuilding Master Controller
+[2018-09-29 15:06:58.529] [07:00:00] bWA-crHe DEBUG: SSminimap: 6 maps.
+[2018-09-29 15:07:43.962] [07:00:00] bWA-crHe ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 15:08:05.110] [07:00:00] bWA-crHe ADMIN: Lestatanderson has started the game.
+[2018-09-29 15:08:05.358] [07:00:00] bWA-crHe DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 15:08:05.358] [07:00:00] bWA-crHe DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 15:08:05.735] [07:00:00] bWA-crHe ACCESS: Logout: *no key*/(Lestatanderson)
+[2018-09-29 15:08:05.735] [07:00:00] bWA-crHe ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 15:08:05.981] [07:00:00] bWA-crHe DEBUG: Moved - the mob was deleted while still listening to Tristan Bell.
+[2018-09-29 15:08:05.981] [07:00:00] bWA-crHe DEBUG: See In Dark Set - the mob was deleted while still listening to Tristan Bell.
+[2018-09-29 15:08:05.982] [07:00:00] bWA-crHe DEBUG: See Invisible Set - the mob was deleted while still listening to Tristan Bell.
+[2018-09-29 15:08:05.982] [07:00:00] bWA-crHe DEBUG: Sight Set - the mob was deleted while still listening to Tristan Bell.
+[2018-09-29 15:08:06.416] [07:00:00] bWA-crHe DEBUG: Next event of severity Mundane in 14.31 minutes.
+[2018-09-29 15:08:06.437] [07:00:00] bWA-crHe DEBUG: Next event of severity Moderate in 42.89 minutes.
+[2018-09-29 15:08:06.437] [07:00:00] bWA-crHe DEBUG: Next event of severity Major in 86.39 minutes.
+[2018-09-29 15:08:13.396] [07:00:06] bWA-crHe SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 15:08:17.833] [07:00:11] bWA-crHe SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 15:09:00.489] [07:00:53] bWA-crHe EMOTE: �Meatbag/ : <B>�Meatbag</B> turns and flies towards the insulated gauntlets
+[2018-09-29 15:09:36.492] [07:01:29] bWA-crHe EMOTE: Lion/ : <B>Lion</B> shakes their head.
+[2018-09-29 15:14:04.733] [07:05:57] bWA-crHe ADMIN: Lestatanderson/(Lana Werry) jumped to the �SCP 151's Chamber (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=80;Y=137;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[2018-09-29 15:14:11.968] [07:06:04] bWA-crHe ADMIN: Lestatanderson/(Lana Werry) jumped to 85,132,3 in the �SCP 151's Chamber (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=79;Y=132;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[2018-09-29 15:19:16.423] [07:11:09] bWA-crHe ACCESS: Logout: Lestatanderson/(Lana Werry)
+[2018-09-29 16:32:11.465] 
+[2018-09-29 16:32:11.512] 
+[2018-09-29 16:32:11.512] Starting up. (ID: bWA-cE1q) 11:32.11
+[2018-09-29 16:32:11.512] ---------------------
+[2018-09-29 16:32:11.548] [12:00:00] bWA-cE1q ADMIN: Loading jobban_rank
+[2018-09-29 16:32:11.548] [12:00:00] bWA-cE1q ADMIN: jobban_keylist was empty
+[2018-09-29 16:32:11.550] [12:00:00] bWA-cE1q ADMIN: Loading Banlist
+[2018-09-29 16:32:11.616] [12:00:00] bWA-cE1q DEBUG: Rebuilding Master Controller
+[2018-09-29 16:32:13.542] [12:00:00] bWA-cE1q DEBUG: SSminimap: 6 maps.
+[2018-09-29 16:32:25.100] [12:00:00] bWA-cE1q ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:32:48.627] [12:00:00] bWA-cE1q ADMIN: Lestatanderson has started the game.
+[2018-09-29 16:32:48.903] [12:00:00] bWA-cE1q DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 16:32:48.903] [12:00:00] bWA-cE1q DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 16:32:49.299] [12:00:00] bWA-cE1q ACCESS: Logout: *no key*/(Lestatanderson)
+[2018-09-29 16:32:49.299] [12:00:00] bWA-cE1q ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:32:49.542] [12:00:00] bWA-cE1q DEBUG: Moved - the mob was deleted while still listening to Pedro Cowper.
+[2018-09-29 16:32:49.542] [12:00:00] bWA-cE1q DEBUG: See In Dark Set - the mob was deleted while still listening to Pedro Cowper.
+[2018-09-29 16:32:49.542] [12:00:00] bWA-cE1q DEBUG: See Invisible Set - the mob was deleted while still listening to Pedro Cowper.
+[2018-09-29 16:32:49.542] [12:00:00] bWA-cE1q DEBUG: Sight Set - the mob was deleted while still listening to Pedro Cowper.
+[2018-09-29 16:32:49.963] [12:00:00] bWA-cE1q DEBUG: Next event of severity Mundane in 17.236 minutes.
+[2018-09-29 16:32:49.978] [12:00:00] bWA-cE1q DEBUG: Next event of severity Moderate in 52.754 minutes.
+[2018-09-29 16:32:49.978] [12:00:00] bWA-cE1q DEBUG: Next event of severity Major in 81.9017 minutes.
+[2018-09-29 16:32:51.398] [12:00:01] bWA-cE1q EMOTE: �Meatbag/ : <B>�Meatbag</B> turns and flies towards the natural philosopher's wig
+[2018-09-29 16:33:29.671] [12:00:39] bWA-cE1q SAY: Lion/ : Esp!
+[2018-09-29 16:33:50.013] [12:00:59] bWA-cE1q ADMIN: Lestatanderson/(Lana Werry) jumped to the �Class D Shower Room (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=100;Y=205;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[2018-09-29 16:35:33.047] [12:02:42] bWA-cE1q ADMIN: Lestatanderson/(Lana Werry) created 1 /obj/machinery/portable_atmospherics/canister/sleeping_agent (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=121;Y=184;Z=3'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[2018-09-29 16:35:41.856] [12:02:51] bWA-cE1q SAY: Lion/ : Esp!
+[2018-09-29 16:36:09.845] [12:03:19] bWA-cE1q SAY: Lion/ : Esp!
+[2018-09-29 16:37:38.590] [12:04:48] bWA-cE1q ACCESS: Logout: Lestatanderson/(Lana Werry)
+[2018-09-29 16:38:13.059] 
+[2018-09-29 16:38:13.060] 
+[2018-09-29 16:38:13.060] Starting up. (ID: bWA-cFWK) 11:38.13
+[2018-09-29 16:38:13.060] ---------------------
+[2018-09-29 16:38:13.084] [12:00:00] bWA-cFWK ADMIN: Loading jobban_rank
+[2018-09-29 16:38:13.084] [12:00:00] bWA-cFWK ADMIN: jobban_keylist was empty
+[2018-09-29 16:38:13.086] [12:00:00] bWA-cFWK ADMIN: Loading Banlist
+[2018-09-29 16:38:13.239] [12:00:00] bWA-cFWK DEBUG: Rebuilding Master Controller
+[2018-09-29 16:38:15.274] [12:00:00] bWA-cFWK DEBUG: SSminimap: 6 maps.
+[2018-09-29 16:38:44.914] [12:00:00] bWA-cFWK ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:38:53.067] [12:00:00] bWA-cFWK ADMIN: Lestatanderson has started the game.
+[2018-09-29 16:38:53.391] [12:00:00] bWA-cFWK DEBUG: Next event of severity Mundane in 14.716 minutes.
+[2018-09-29 16:38:53.403] [12:00:00] bWA-cFWK DEBUG: Next event of severity Moderate in 39.342 minutes.
+[2018-09-29 16:38:53.403] [12:00:00] bWA-cFWK DEBUG: Next event of severity Major in 81.2117 minutes.
+[2018-09-29 16:38:57.102] [12:00:03] bWA-cFWK EMOTE: �Meatbag/ : <B>�Meatbag</B> turns and flies towards the pistachios pack
+[2018-09-29 16:40:57.814] [12:02:03] bWA-cFWK ACCESS: Logout: *no key*/(Lestatanderson)
+[2018-09-29 16:40:57.815] [12:02:03] bWA-cFWK ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:40:58.087] [12:02:03] bWA-cFWK DEBUG: Moved - the mob was deleted while still listening to Owen Hughes.
+[2018-09-29 16:40:58.087] [12:02:03] bWA-cFWK DEBUG: See In Dark Set - the mob was deleted while still listening to Owen Hughes.
+[2018-09-29 16:40:58.087] [12:02:03] bWA-cFWK DEBUG: See Invisible Set - the mob was deleted while still listening to Owen Hughes.
+[2018-09-29 16:40:58.087] [12:02:03] bWA-cFWK DEBUG: Sight Set - the mob was deleted while still listening to Owen Hughes.
+[2018-09-29 16:41:01.089] [12:02:05] bWA-cFWK DEBUG: Moved - the mob was deleted while still listening to Inactive AI Eye.
+[2018-09-29 16:41:01.089] [12:02:05] bWA-cFWK DEBUG: See In Dark Set - the mob was deleted while still listening to Inactive AI Eye.
+[2018-09-29 16:41:01.089] [12:02:05] bWA-cFWK DEBUG: See Invisible Set - the mob was deleted while still listening to Inactive AI Eye.
+[2018-09-29 16:41:01.089] [12:02:05] bWA-cFWK DEBUG: Sight Set - the mob was deleted while still listening to Inactive AI Eye.
+[2018-09-29 16:41:01.138] [12:02:05] bWA-cFWK DEBUG: Moved - the mob was deleted while still listening to Arrivals Announcement Computer.
+[2018-09-29 16:41:01.138] [12:02:05] bWA-cFWK DEBUG: See In Dark Set - the mob was deleted while still listening to Arrivals Announcement Computer.
+[2018-09-29 16:41:01.138] [12:02:05] bWA-cFWK DEBUG: See Invisible Set - the mob was deleted while still listening to Arrivals Announcement Computer.
+[2018-09-29 16:41:01.139] [12:02:05] bWA-cFWK DEBUG: Sight Set - the mob was deleted while still listening to Arrivals Announcement Computer.
+[2018-09-29 16:41:01.139] [12:02:05] bWA-cFWK ADMIN: Lestatanderson/(Lana Werry) has joined the round as Guard Commander. (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=142;Y=117;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[2018-09-29 16:41:33.322] [12:02:38] bWA-cFWK ADMIN: Lestatanderson/(Lana Werry) jumped to the �Telecoms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=159;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[2018-09-29 16:41:38.374] [12:02:43] bWA-cFWK ADMIN: Lestatanderson/(Lana Werry) jumped to 145,160,5 in the �Telecoms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=138;Y=159;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000036]'>MOB</a>)
+[2018-09-29 16:41:53.305] [12:02:58] bWA-cFWK SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 16:43:40.620] [12:04:45] bWA-cFWK ACCESS: Logout: *no key*/(Lana Werry)
+[2018-09-29 16:43:40.620] [12:04:45] bWA-cFWK ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:53:38.693] [12:14:43] bWA-cFWK DEBUG: Next event of severity Mundane in 17.4 minutes.
+[2018-09-29 16:53:38.693] [12:14:43] bWA-cFWK DEBUG: Starting event 'Mundane News' of severity Mundane.
+[2018-09-29 16:54:01.350] [12:15:05] bWA-cFWK DEBUG: Event 'Mundane News' has completed at 12:15.
+[2018-09-29 16:59:50.549] [12:20:54] bWA-cFWK ACCESS: Logout: *no key*/(Lana Werry)
+[2018-09-29 16:59:50.549] [12:20:54] bWA-cFWK ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 16:59:50.769] [12:20:54] bWA-cFWK DEBUG: Moved - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 16:59:50.769] [12:20:54] bWA-cFWK DEBUG: See In Dark Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 16:59:50.769] [12:20:54] bWA-cFWK DEBUG: See Invisible Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 16:59:50.769] [12:20:54] bWA-cFWK DEBUG: Sight Set - the mob was deleted while still listening to Lana Werry.
+[2018-09-29 16:59:56.520] [12:20:59] bWA-cFWK SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 17:06:50.959] [12:27:49] bWA-cFWK SAY: Lion/ : Purr!
+[2018-09-29 17:07:49.434] [12:28:47] bWA-cFWK EMOTE: Lion/ : <B>Lion</B> mews.
+[2018-09-29 17:11:12.930] [12:32:09] bWA-cFWK DEBUG: Next event of severity Mundane in 12.894 minutes.
+[2018-09-29 17:11:12.989] [12:32:09] bWA-cFWK DEBUG: Starting event 'Economic News' of severity Mundane.
+[2018-09-29 17:14:02.683] [12:34:57] bWA-cFWK SAY: Lana Werry/Lestatanderson : testing
+[2018-09-29 17:14:16.585] [12:35:11] bWA-cFWK SAY: Lion/ : Esp!
+[2018-09-29 17:14:34.527] [12:35:28] bWA-cFWK ACCESS: Logout: *no key*/(Lana Werry)
+[2018-09-29 17:14:34.527] [12:35:28] bWA-cFWK ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 17:15:32.946] [12:36:26] bWA-cFWK DEBUG: Event 'Economic News' has completed at 12:36.
+[2018-09-29 17:18:29.701] [12:39:21] bWA-cFWK DEBUG: Next event of severity Moderate in 39.188 minutes.
+[2018-09-29 17:18:29.734] [12:39:21] bWA-cFWK DEBUG: Starting event 'Grid Check' of severity Moderate.
+[2018-09-29 17:18:45.441] [12:39:34] bWA-cFWK DEBUG: Event 'Grid Check' has completed at 12:39.
+[2018-09-29 17:24:23.491] [12:45:03] bWA-cFWK DEBUG: Next event of severity Mundane in 15.384 minutes.
+[2018-09-29 17:24:23.504] [12:45:03] bWA-cFWK DEBUG: Starting event 'Trivial News' of severity Mundane.
+[2018-09-29 17:24:46.311] [12:45:26] bWA-cFWK DEBUG: Event 'Trivial News' has completed at 12:45.
+[2018-09-29 17:34:30.063] [12:55:04] bWA-cFWK ACCESS: Logout: Lestatanderson/(Lana Werry)
+[2018-09-29 17:36:37.709] 
+[2018-09-29 17:36:37.737] 
+[2018-09-29 17:36:37.737] Starting up. (ID: bWA-cO4O) 12:36.37
+[2018-09-29 17:36:37.737] ---------------------
+[2018-09-29 17:36:37.844] [21:00:00] bWA-cO4O ADMIN: Loading jobban_rank
+[2018-09-29 17:36:37.844] [21:00:00] bWA-cO4O ADMIN: jobban_keylist was empty
+[2018-09-29 17:36:37.846] [21:00:00] bWA-cO4O ADMIN: Loading Banlist
+[2018-09-29 17:36:37.944] [21:00:00] bWA-cO4O DEBUG: Rebuilding Master Controller
+[2018-09-29 17:36:39.995] [21:00:00] bWA-cO4O DEBUG: SSminimap: 6 maps.
+[2018-09-29 17:38:15.114] [21:00:00] bWA-cO4O ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 17:38:15.330] [21:00:00] bWA-cO4O ACCESS: Logout: Lestatanderson/(Lestatanderson)
+[2018-09-29 17:38:15.476] [21:00:00] bWA-cO4O ACCESS: Login: Lestatanderson/(Lestatanderson) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 17:38:35.854] [21:00:00] bWA-cO4O ADMIN: Lestatanderson has started the game.
+[2018-09-29 17:38:36.539] [21:00:00] bWA-cO4O DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 17:38:36.540] [21:00:00] bWA-cO4O DEBUG: Lestatanderson has not selected never for this role, so we are drafting them.
+[2018-09-29 17:38:37.260] [21:00:00] bWA-cO4O ACCESS: Logout: *no key*/(Lestatanderson)
+[2018-09-29 17:38:37.260] [21:00:00] bWA-cO4O ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 17:38:37.676] [21:00:00] bWA-cO4O DEBUG: Moved - the mob was deleted while still listening to Collin Swarner.
+[2018-09-29 17:38:37.676] [21:00:00] bWA-cO4O DEBUG: See In Dark Set - the mob was deleted while still listening to Collin Swarner.
+[2018-09-29 17:38:37.676] [21:00:00] bWA-cO4O DEBUG: See Invisible Set - the mob was deleted while still listening to Collin Swarner.
+[2018-09-29 17:38:37.676] [21:00:00] bWA-cO4O DEBUG: Sight Set - the mob was deleted while still listening to Collin Swarner.
+[2018-09-29 17:38:38.211] [21:00:00] bWA-cO4O DEBUG: Next event of severity Mundane in 15.172 minutes.
+[2018-09-29 17:38:38.226] [21:00:00] bWA-cO4O DEBUG: Next event of severity Moderate in 47.272 minutes.
+[2018-09-29 17:38:38.226] [21:00:00] bWA-cO4O DEBUG: Next event of severity Major in 90.0633 minutes.
+[2018-09-29 17:39:16.521] [21:00:37] bWA-cO4O EMOTE: �Meatbag/ : <B>�Meatbag</B> turns and flies towards the �"LiquidFood" MRE
+[2018-09-29 17:40:18.712] [21:01:39] bWA-cO4O ADMIN: Lestatanderson/(Lana Werry) jumped to the �Telecoms (<a HREF='?_src_=holder;adminplayerobservecoodjump=1;X=146;Y=160;Z=5'>LOC</a>) (<a HREF='?_src_=holder;adminplayerobservefollow=[0x3000034]'>MOB</a>)
+[2018-09-29 17:40:26.390] [21:01:47] bWA-cO4O ACCESS: Logout: *no key*/(Lana Werry)
+[2018-09-29 17:40:26.390] [21:01:47] bWA-cO4O ACCESS: Login: Lestatanderson/(Lana Werry) from 127.0.0.1-875283340 || BYOND v512
+[2018-09-29 17:53:51.038] [21:15:12] bWA-cO4O DEBUG: Next event of severity Mundane in 16.316 minutes.
+[2018-09-29 17:53:51.038] [21:15:12] bWA-cO4O DEBUG: Starting event 'Trivial News' of severity Mundane.
+[2018-09-29 17:54:13.694] [21:15:34] bWA-cO4O DEBUG: Event 'Trivial News' has completed at 21:16.
+[2018-09-29 18:10:17.670] [21:31:32] bWA-cO4O DEBUG: Next event of severity Mundane in 12.774 minutes.
+[2018-09-29 18:10:17.670] [21:31:32] bWA-cO4O DEBUG: Starting event 'Economic News' of severity Mundane.
+[2018-09-29 18:13:09.396] [21:34:23] bWA-cO4O DEBUG: Event 'Economic News' has completed at 21:34.
+[2018-09-29 18:19:55.224] [21:41:06] bWA-cO4O ACCESS: Logout: Lestatanderson/(Lana Werry)
